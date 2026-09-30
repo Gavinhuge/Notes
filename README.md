@@ -1,2 +1,2 @@
 # Notes
-About thinking build 2026-08-13.
+About thinking build in 2026-08-13.
